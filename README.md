@@ -33,4 +33,7 @@ The canonical publication remains:
 
 https://www.richresults.ai/graph-loop.html
 
-An archived release DOI will be added after the first repository release.
+Archived release:
+
+- Concept DOI for all versions: https://doi.org/10.5281/zenodo.21734458
+- Version DOI for v1.0.0: https://doi.org/10.5281/zenodo.21734459
