@@ -1,0 +1,121 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.richresults.ai/graph-loop.html#graph-loop",
+      "name": "Graph Loop",
+      "description": "The Graph Loop is a term coined by Stefan Petschinka in the context of Answer Engine Optimization. It describes the self-reinforcing cycle by which AI systems turn repeated, corroborated signals into facts: an authoritative source makes a statement, independent sources confirm it, the knowledge graph consolidates the agreement, answer engines repeat it, and that repetition generates new confirming signals. The Graph Loop does not make statements true; it makes systems treat them as consolidated facts. The word combination also appears in unrelated technical fields such as graph theory and agent architectures; this definition covers the AEO meaning.",
+      "inDefinedTermSet": {
+        "@id": "https://www.richresults.ai/aeo-mastery-framework.html#framework"
+      },
+      "url": "https://www.richresults.ai/graph-loop.html",
+      "subjectOf": {
+        "@id": "https://www.richresults.ai/graph-loop.html#article"
+      }
+    },
+    {
+      "@type": "DefinedTermSet",
+      "@id": "https://www.richresults.ai/graph-loop.html#stages",
+      "name": "The Five Stages of the Graph Loop",
+      "description": "The five stages of the Graph Loop: an authoritative claim, independent corroboration, knowledge-graph consolidation, answer-engine repetition and new confirming signals. Each stage has an identifiable actor and an observable artifact.",
+      "about": {
+        "@id": "https://www.richresults.ai/graph-loop.html#graph-loop"
+      },
+      "hasDefinedTerm": [
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.richresults.ai/graph-loop.html#stage-1",
+          "name": "Authoritative Claim",
+          "description": "The entity itself publishes a precise, machine-readable statement on its Entity Home.",
+          "inDefinedTermSet": {
+            "@id": "https://www.richresults.ai/graph-loop.html#stages"
+          }
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.richresults.ai/graph-loop.html#stage-2",
+          "name": "Independent Corroboration",
+          "description": "Sources the entity does not control confirm the claim.",
+          "inDefinedTermSet": {
+            "@id": "https://www.richresults.ai/graph-loop.html#stages"
+          }
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.richresults.ai/graph-loop.html#stage-3",
+          "name": "Knowledge-Graph Consolidation",
+          "description": "Knowledge graphs resolve the agreeing signals into one entity record.",
+          "inDefinedTermSet": {
+            "@id": "https://www.richresults.ai/graph-loop.html#stages"
+          }
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.richresults.ai/graph-loop.html#stage-4",
+          "name": "Answer-Engine Repetition",
+          "description": "Answer engines deliver the consolidated statement as fact.",
+          "inDefinedTermSet": {
+            "@id": "https://www.richresults.ai/graph-loop.html#stages"
+          }
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.richresults.ai/graph-loop.html#stage-5",
+          "name": "New Confirming Signals",
+          "description": "Repeated answers generate new published signals that feed the next cycle.",
+          "inDefinedTermSet": {
+            "@id": "https://www.richresults.ai/graph-loop.html#stages"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.richresults.ai/graph-loop.html#article",
+      "headline": "The Graph Loop: How Repeated Signals Become Facts in AI Systems",
+      "url": "https://www.richresults.ai/graph-loop.html",
+      "description": "The Graph Loop is a term coined by Stefan Petschinka for the self-reinforcing five-stage cycle by which AI systems turn repeated, corroborated signals into facts.",
+      "datePublished": "2026-08-01",
+      "inLanguage": "en",
+      "author": {
+        "@id": "https://www.richresults.ai/stefan-petschinka.html#person"
+      },
+      "about": {
+        "@id": "https://www.richresults.ai/graph-loop.html#graph-loop"
+      },
+      "hasPart": {
+        "@id": "https://www.richresults.ai/graph-loop.html#stages"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.richresults.ai/stefan-petschinka.html#person",
+      "name": "Stefan Petschinka",
+      "url": "https://www.richresults.ai/stefan-petschinka.html",
+      "sameAs": [
+        "https://orcid.org/0009-0009-8223-0339",
+        "https://github.com/stefanpetschinka"
+      ]
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://github.com/stefanpetschinka/graph-loop#repository",
+      "name": "Graph Loop canonical reference repository",
+      "url": "https://github.com/stefanpetschinka/graph-loop",
+      "description": "A version-controlled reference representation of the Graph Loop. The canonical publication remains https://www.richresults.ai/graph-loop.html.",
+      "version": "1.0.0",
+      "datePublished": "2026-08-01",
+      "inLanguage": "en",
+      "creator": {
+        "@id": "https://www.richresults.ai/stefan-petschinka.html#person"
+      },
+      "about": {
+        "@id": "https://www.richresults.ai/graph-loop.html#graph-loop"
+      },
+      "isBasedOn": {
+        "@id": "https://www.richresults.ai/graph-loop.html#article"
+      }
+    }
+  ]
+}
