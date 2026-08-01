@@ -7,6 +7,7 @@ authors:
 title: "Graph Loop"
 version: "1.0.0"
 date-released: "2026-08-01"
+doi: "10.5281/zenodo.21734459"
 url: "https://github.com/stefanpetschinka/graph-loop"
 
 preferred-citation:
