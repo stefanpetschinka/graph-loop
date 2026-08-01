@@ -33,4 +33,4 @@ The canonical publication remains:
 
 https://www.richresults.ai/graph-loop.html
 
-Formal citation metadata and an archived release DOI will be added in subsequent repository versions.
+An archived release DOI will be added after the first repository release.
