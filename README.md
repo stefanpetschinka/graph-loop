@@ -1,5 +1,7 @@
 # Graph Loop
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21734458.svg)](https://doi.org/10.5281/zenodo.21734458)
+
 **Canonical reference repository for the Graph Loop**, a concept within the AEO Mastery Framework developed by Stefan Petschinka.
 
 The Graph Loop is a conceptual model for the self-reinforcing cycle through which repeated, corroborated signals can be consolidated and reused as facts by AI systems.
