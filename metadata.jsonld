@@ -103,6 +103,22 @@
       "@id": "https://github.com/stefanpetschinka/graph-loop#repository",
       "name": "Graph Loop canonical reference repository",
       "url": "https://github.com/stefanpetschinka/graph-loop",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "name": "Concept DOI",
+          "propertyID": "DOI",
+          "value": "10.5281/zenodo.21734458",
+          "url": "https://doi.org/10.5281/zenodo.21734458"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Version DOI",
+          "propertyID": "DOI",
+          "value": "10.5281/zenodo.21734459",
+          "url": "https://doi.org/10.5281/zenodo.21734459"
+        }
+      ],
       "description": "A version-controlled reference representation of the Graph Loop. The canonical publication remains https://www.richresults.ai/graph-loop.html.",
       "version": "1.0.0",
       "datePublished": "2026-08-01",
