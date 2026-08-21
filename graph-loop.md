@@ -26,7 +26,7 @@ The five stages of the Graph Loop are: an authoritative claim, independent corro
 
 ### Stage 1: Authoritative Claim
 
-The entity itself acts. The artifact is a precise, machine-readable statement on the Entity Home: a canonical page, a JSON-LD declaration, a claim formulated identically wherever it appears. Within the AEO Mastery Framework, the operational standard for this lever is machine-identical claims: the same statement, byte for byte, across visible content, structured data and llms.txt. llms.txt serves here as a documentation and consistency layer of the framework; no platform documents the file as a visibility signal, as recorded in the [AI Visibility Evidence Model](https://www.richresults.ai/evidence.html). A claim that varies across surfaces enters the loop as noise, not as signal.
+The entity itself acts. The artifact is a precise, machine-readable statement on the Entity Home: a canonical page, a JSON-LD declaration, a claim formulated identically wherever it appears. Within the AEO Mastery Framework, the operational standard for this lever is machine-identical claims: the same statement, byte for byte, across visible content, structured data and llms.txt. llms.txt serves here as a documentation and consistency layer of the framework; no platform documents the file as a visibility signal, as recorded in the [AI Visibility Evidence Model](https://www.richresults.ai/evidence.html). Across machine-consumed surfaces, inconsistent claims introduce ambiguity rather than reinforcing a consistent signal; in llms.txt, inconsistency remains a framework-level documentation defect, not an evidenced visibility signal.
 
 ### Stage 2: Independent Corroboration
 
