@@ -22,7 +22,7 @@ It describes how signals may gain apparent stability when they are repeatedly re
 
 ## Authorship
 
-The Graph Loop was developed and published by The Graph Loop was developed and published by Stefan Petschinka, AEO Strategist, Entity Architect and Founder of richresults.ai.
+The Graph Loop was developed and published by Stefan Petschinka, AEO Strategist, Entity Architect and Founder of richresults.ai.
 
 - Author profile: https://www.richresults.ai/stefan-petschinka.html
 - ORCID: https://orcid.org/0009-0009-8223-0339
